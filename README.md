@@ -1,5 +1,7 @@
 # Canny-Edge-Detector
-컴퓨터비전 - Edge detector 구현해보기
+**컴퓨터비전 - Edge detector 구현해보기**
+
+_과제로 수행한 프로젝트로, 틀린 내용이 존재할 수 있습니다._
 
 (1) Gray Scale 변환 : 컬러 이미지를 그레이 스케일로 변환
 
